@@ -7,45 +7,45 @@ Here is an Outline of the key categories and technologies that should be include
 
 A. Wheelchairs and Scooters
 
-Electric Wheelchairs: Powered wheelchairs for individuals with limited mobility.
+  Electric Wheelchairs: Powered wheelchairs for individuals with limited mobility.
 
-Mobility Scooters: Devices for people who can walk short distances but need assistance with longer trips.
+  Mobility Scooters: Devices for people who can walk short distances but need assistance with longer trips.
 
-Standing Wheelchairs: Allow users to stand while using the chair.
+  Standing Wheelchairs: Allow users to stand while using the chair.
 
 B. Exoskeletons and Robotic Devices
 
-ReWalk: A wearable exoskeleton that allows individuals with spinal cord injuries to stand and walk.
+  ReWalk: A wearable exoskeleton that allows individuals with spinal cord injuries to stand and walk.
 
-EksoGT: Another robotic exoskeleton for people with lower-body paralysis.
+  EksoGT: Another robotic exoskeleton for people with lower-body paralysis.
 
 C. Walking Aids
 
-Smart Canes: Canes with sensors to detect obstacles and alert the user.
+  Smart Canes: Canes with sensors to detect obstacles and alert the user.
 
-Power-Assisted Walking Frames: Walkers with motorized assistance.
+  Power-Assisted Walking Frames: Walkers with motorized assistance.
 
 2. Assistive Technology for Visual Impairments
 
 A. Screen Readers
 
-JAWS (Job Access With Speech): Popular screen reader software for visually impaired users.
+  JAWS (Job Access With Speech): Popular screen reader software for visually impaired users.
 
-NVDA (NonVisual Desktop Access): A free screen reader for Windows.
+  NVDA (NonVisual Desktop Access): A free screen reader for Windows.
 
-VoiceOver: Built-in screen reader on Apple devices.
+  VoiceOver: Built-in screen reader on Apple devices.
 
 B. Braille Displays and Notetakers
 
-BrailleNote Touch Plus: A Braille notetaker that offers a combination of Braille and touchscreen functionality.
+  BrailleNote Touch Plus: A Braille notetaker that offers a combination of Braille and touchscreen functionality.
 
-Focus Braille Displays: Portable devices that display Braille text for reading.
+  Focus Braille Displays: Portable devices that display Braille text for reading.
 
 C. Text-to-Speech (TTS) Software
 
-Kurzweil 3000: A reading, writing, and study software designed for users with learning disabilities or visual impairments.
+  Kurzweil 3000: A reading, writing, and study software designed for users with learning disabilities or visual impairments.
 
-Speechify: Text-to-speech software that reads aloud any text on a screen.
+  Speechify: Text-to-speech software that reads aloud any text on a screen.
 
 D. Optical Character Recognition (OCR) Tools
 
