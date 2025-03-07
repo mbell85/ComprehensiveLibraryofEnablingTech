@@ -6,7 +6,9 @@ This library includes a collection of enabling technologies that assist people w
 These are devices that assist people with physical disabilities or mobility limitations.
 
 - **Wheelchairs (Manual & Electric):**
-  - Manual Wheelchairs: Standard wheelchairs, sport wheelchairs.
+  - Manual Wheelchairs: [Standard wheelchairs](https://www.google.com/search?q=manual+wheelchairs&num=10&newwindow=1&sca_esv=84ea749be86299f8&ei=BFbLZ-TiBsPfp84Pqtmn-Ak&ved=0ahUKEwjk9IDK5viLAxXD78kDHarsCZ8Q4dUDCBA&uact=5&oq=manual+wheelchairs&gs_lp=Egxnd3Mtd2l6LXNlcnAiEm1hbnVhbCB3aGVlbGNoYWlyczIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARI9BhQAFjUFXAAeAGQAQCYAY8CoAH_DqoBBjExLjYuMbgBA8gBAPgBAZgCEqACyw_CAgoQABiABBhDGIoFwgIOEC4YgAQYsQMYgwEYigXCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGNEDGMcBwgILEAAYgAQYkQIYigXCAg0QLhiABBhDGOUEGIoFwgIQEAAYgAQYsQMYQxiDARiKBcICEBAuGIAEGEMYxwEYigUYrwHCAgsQLhiABBixAxiDAcICCBAuGIAEGLEDwgIOEAAYgAQYsQMYgwEYigXCAhEQLhiABBixAxjRAxiDARjHAcICBRAuGIAEwgIIEAAYgAQYsQPCAgQQABgDwgIWEC4YgAQYsQMY0QMYQxiDARjHARiKBcICCxAuGIAEGMcBGK8BmAMAkgcGMTAuNy4xoAefrQE&sclient=gws-wiz-serp#vhid=zephyr:0&vssid=atritem-https://www.sunrisemedical.com/manual-wheelchairs), [sport wheelchairs](https://www.google.com/search?q=sport+wheelchairs&oq=sport+wheelchairs&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEIMjc2MGowajSoAgCwAgA&sourceid=chrome&ie=UTF-8)
+
+
   - Power Wheelchairs: Motorized wheelchairs with advanced features (e.g., standing wheelchairs, tilt-in-space).
   - Smart Wheelchairs: Wheelchairs with sensors, navigation aids, and voice-activated controls.
   
