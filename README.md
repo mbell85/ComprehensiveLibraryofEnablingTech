@@ -1,8 +1,3 @@
-# Comprehensive Library of Enabling Tech
-The following is meant to be a Comprehensive Library of Enabling Technologies that can support people with disabilities to live more independently. All technologies listed here are aimed to help improve accessibility, independence, and quality of life for individuals with various disabilities. 
-
-Here is an Outline of the key categories and technologies that should be included in this library/repository:
-
 # Comprehensive Library of Enabling Technologies for People with Disabilities
 
 This library includes a collection of enabling technologies that assist people with disabilities, helping improve independence, accessibility, and quality of life. The following categories outline various technologies designed for different needs:
