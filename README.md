@@ -1,11 +1,11 @@
 # Comprehensive Library of Enabling Tech
-The following is meant to be a Comprehensive Library of Enabling Technologies that can be utilized to support people with disabilities in living more independently. The technologies listed here are aimed to help improve accessibility, independence and quality of life for individuals with various disabilities. 
+The following is meant to be a Comprehensive Library of Enabling Technologies that can support people with disabilities to live more independently. All technologies listed here are aimed to help improve accessibility, independence, and quality of life for individuals with various disabilities. 
 
 Here is an Outline of the key categories and technologies that should be included in this library/repository:
 
 1. Assistive Technology for Mobility Impairments
 
-A. Wheelchairs and Scooters
+  A. Wheelchairs and Scooters
 
   Electric Wheelchairs: Powered wheelchairs for individuals with limited mobility.
 
@@ -13,13 +13,13 @@ A. Wheelchairs and Scooters
 
   Standing Wheelchairs: Allow users to stand while using the chair.
 
-B. Exoskeletons and Robotic Devices
+  B. Exoskeletons and Robotic Devices
 
   ReWalk: A wearable exoskeleton that allows individuals with spinal cord injuries to stand and walk.
 
   EksoGT: Another robotic exoskeleton for people with lower-body paralysis.
 
-C. Walking Aids
+  C. Walking Aids
 
   Smart Canes: Canes with sensors to detect obstacles and alert the user.
 
@@ -27,7 +27,7 @@ C. Walking Aids
 
 2. Assistive Technology for Visual Impairments
 
-A. Screen Readers
+  A. Screen Readers
 
   JAWS (Job Access With Speech): Popular screen reader software for visually impaired users.
 
@@ -35,23 +35,23 @@ A. Screen Readers
 
   VoiceOver: Built-in screen reader on Apple devices.
 
-B. Braille Displays and Notetakers
+  B. Braille Displays and Notetakers
 
   BrailleNote Touch Plus: A Braille notetaker that offers a combination of Braille and touchscreen functionality.
 
   Focus Braille Displays: Portable devices that display Braille text for reading.
 
-C. Text-to-Speech (TTS) Software
+  C. Text-to-Speech (TTS) Software
 
   Kurzweil 3000: A reading, writing, and study software designed for users with learning disabilities or visual impairments.
 
   Speechify: Text-to-speech software that reads aloud any text on a screen.
 
-D. Optical Character Recognition (OCR) Tools
+  D. Optical Character Recognition (OCR) Tools
 
-Scan and Read Pro: Converts printed text to speech using a scanner or camera.
+  Scan and Read Pro: Converts printed text to speech using a scanner or camera.
 
-Seeing AI (by Microsoft): A smartphone app that narrates the world around you, including text, people, and objects.
+  Seeing AI (by Microsoft): A smartphone app that narrates the world around you, including text, people, and objects.
 
 3. Assistive Technology for Hearing Impairments
 
