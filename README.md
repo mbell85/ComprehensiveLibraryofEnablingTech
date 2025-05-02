@@ -50,32 +50,32 @@ Tools and devices to assist individuals with partial or complete vision loss.
   - [Software like JAWS, NVDA, or VoiceOver that reads aloud text displayed on a computer screen](https://www.google.com/search?q=Screen+readers&oq=Screen+readers&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQ5NDlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Braille Technology:**
-  - Braille e-readers: Devices like the BrailleNote Touch or BrailleSense for reading digital content.
+  - [Braille e-readers: Devices like the BrailleNote Touch or BrailleSense for reading digital content](https://www.google.com/search?q=Braille+e-readers&oq=Braille+e-readers&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMgoIBRAAGIAEGKIE0gEHOTg5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
   - Braille printers: Devices that produce tactile Braille documents.
 
 - **Magnification Software:**
-  - Software like ZoomText or MAGic that enlarges text and images on a screen for individuals with low vision.
+  - [Software like ZoomText or MAGic that enlarges text and images on a screen for individuals with low vision](https://www.google.com/search?q=Screen+Magnification+software&oq=Screen+Magnification+software&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB7SAQg2MDUyajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Smart Glasses:**
-  - Wearable devices like OrCam MyEye or eSight glasses that help people with visual impairments by providing real-time audio feedback.
+  - [Wearable devices like OrCam MyEye or eSight glasses that help people with visual impairments by providing real-time audio feedback](https://www.google.com/search?q=Smart+Glasses&oq=Smart+Glasses&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDE3MTBqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Tactile Maps & Navigation:**
-  - Tactile maps and GPS-based navigation systems for blind individuals, such as Aira and Lazarillo.
+  - [Tactile maps and GPS-based navigation systems for blind individuals, such as Aira and Lazarillo](https://www.google.com/search?q=Tactile+Maps+for+navigation&oq=Tactile+Maps+for+navigation&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIKCAEQABiABBiiBDIKCAIQABiABBiiBDIKCAMQABiABBiiBNIBCDQ2NzhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 ## 4. Cognitive & Learning Disability Aids
 Technologies to support individuals with learning disabilities, memory impairments, and other cognitive challenges.
 
 - **Text-to-Speech & Speech Recognition Tools:**
-  - For individuals with dyslexia or other reading challenges, tools like Kurzweil 3000, Read&Write, or ClaroRead offer support.
+  - [For individuals with dyslexia or other reading challenges, tools like Kurzweil 3000, Read&Write, or ClaroRead offer support](https://www.google.com/search?q=Text+to+Speech+and+Speech+Recognition+Tools&oq=Text+to+Speech+and+Speech+Recognition+Tools&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYgAQYogQyCggHEAAYgAQYogQyCggIEAAYgAQYogTSAQg1MjI5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Electronic Math Tools:**
-  - Calculators, digital math boards, and apps like ModMath to assist people with dyscalculia.
+  - [Calculators, digital math boards, and apps like ModMath to assist people with dyscalculia](https://www.google.com/search?q=Electronic+Math+Tools&oq=Electronic+Math+Tools&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEIMzIxNmowajmoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Memory Aids:**
-  - Digital reminder apps like Google Keep or specialized memory aids like SimpleMind or the CogniFit app.
+  - [Digital reminder apps like Google Keep or specialized memory aids like SimpleMind or the CogniFit app](https://www.google.com/search?q=Memory+Aid+Apps+and+Devices&oq=Memory+Aid+Apps+and+Devices&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzUxNmowajmoAgCwAgE&sourceid=chrome&ie=UTF-8).
 
 - **Adaptive Learning Software:**
-  - Software like Ghotit Real Writer and Ghotit Real Proof for dyslexic individuals, offering word prediction and error detection.
+  - [Software like Ghotit Real Writer and Ghotit Real Proof for dyslexic individuals, offering word prediction and error detection](https://www.google.com/search?q=adaptive+learning+software&oq=Adaptive+learning+software&gs_lcrp=EgRlZGdlKgcIABAAGIAEMgcIABAAGIAEMgcIARAAGIAEMgcIAhAAGIAEMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEIMzM5NmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 ## 5. Hearing Impairment Aids
 Technologies that support those with hearing loss.
