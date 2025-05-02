@@ -18,36 +18,36 @@ These are devices that assist people with physical disabilities or mobility limi
   - [Mobility scooters for outdoor use, offering increased mobility for individuals with limited walking abilities](https://www.google.com/search?q=Mobility+scooters+for+outdoor+use%2C+offering+increased+mobility+for+individuals+with+limited+walking+abilities&oq=Mobility+scooters+for+outdoor+use%2C+offering+increased+mobility+for+individuals+with+limited+walking+abilities&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzk2NmowajmoAgCwAgE&sourceid=chrome&ie=UTF-8).
 
 - **Stair Lifts:**
-  - Devices that carry a person or wheelchair up and down stairs, offering independence in multi-level buildings.
+  - [Devices that carry a person or wheelchair up and down stairs, offering independence in multi-level buildings](https://www.google.com/search?q=Devices+that+carry+a+person+or+wheelchair+up+and+down+stairs%2C+offering+independence+in+multi-level+buildings&oq=Devices+that+carry+a+person+or+wheelchair+up+and+down+stairs%2C+offering+independence+in+multi-level+buildings&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzYyOWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Accessible Vehicles:**
-  - Adapted cars and vans with hand controls, wheelchair lifts, and other modifications for easy transport.
+  - [Adapted cars and vans with hand controls, wheelchair lifts, and other modifications for easy transport](https://www.google.com/search?q=Adapted+cars+and+vans+with+hand+controls%2C+wheelchair+lifts%2C+and+other+modifications+for+easy+transport&oq=Adapted+cars+and+vans+with+hand+controls%2C+wheelchair+lifts%2C+and+other+modifications+for+easy+transport&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzQ1MGowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 ## 2. Communication Aids
 Technologies that facilitate communication for individuals with speech or hearing impairments.
 
 - **Augmentative and Alternative Communication (AAC) Devices:**
-  - Speech Generating Devices (SGDs): Devices like the Tobii Dynavox that help non-verbal individuals communicate through text or voice synthesis.
-  - Eye-tracking systems: Devices that track eye movement to control computers or communication devices for those unable to use their hands.
+  - [Speech Generating Devices (SGDs): Devices like the Tobii Dynavox that help non-verbal individuals communicate through text or voice synthesis](https://www.google.com/search?q=Speech+Generating+Devices+%28SGDs%29%3A+Devices+like+the+Tobii+Dynavox+that+help+non-verbal+individuals+communicate+through+text+or+voice+synthesis&num=10&newwindow=1&sca_esv=6698f9915e1145df&ei=PP0UaM1HlLbC3Q-E68K4CQ&ved=0ahUKEwjN1bOopIWNAxUUm7AFHYS1EJcQ4dUDCBA&uact=5&oq=Speech+Generating+Devices+%28SGDs%29%3A+Devices+like+the+Tobii+Dynavox+that+help+non-verbal+individuals+communicate+through+text+or+voice+synthesis&gs_lp=Egxnd3Mtd2l6LXNlcnAijQFTcGVlY2ggR2VuZXJhdGluZyBEZXZpY2VzIChTR0RzKTogRGV2aWNlcyBsaWtlIHRoZSBUb2JpaSBEeW5hdm94IHRoYXQgaGVscCBub24tdmVyYmFsIGluZGl2aWR1YWxzIGNvbW11bmljYXRlIHRocm91Z2ggdGV4dCBvciB2b2ljZSBzeW50aGVzaXNIAFAAWABwAHgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIAoAIAmAMAkgcAoAcAsgcAuAcA&sclient=gws-wiz-serp).
+  - [Eye-tracking systems: Devices that track eye movement to control computers or communication devices for those unable to use their hands](https://www.google.com/search?q=Eye-tracking+systems%3A+Devices+that+track+eye+movement+to+control+computers+or+communication+devices+for+those+unable+to+use+their+hands&oq=Eye-tracking+systems%3A+Devices+that+track+eye+movement+to+control+computers+or+communication+devices+for+those+unable+to+use+their+hands&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDEzNDhqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Text-to-Speech & Speech-to-Text Software:**
-  - Programs like Dragon NaturallySpeaking, which transcribe spoken words into text.
-  - Real-time captioning software for individuals with hearing impairments.
+  - [Programs like Dragon NaturallySpeaking, which transcribe spoken words into text](https://www.google.com/search?q=text+to+speech+software&oq=text+to+speech+software&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDMwODFqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8).
+  - [Real-time captioning software for individuals with hearing impairments](https://www.google.com/search?q=Real-time+captioning+software+for+individuals+with+hearing+impairments&oq=Real-time+captioning+software+for+individuals+with+hearing+impairments&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBBzYwNmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Sign Language Interpretation Technology:**
-  - Apps like Ava and SignAll that offer sign language translation and interpretation services in real time.
+  - [Apps like Ava and SignAll that offer sign language translation and interpretation services in real time](https://www.google.com/search?q=Sign+Language+Interpretation+Technology&oq=Sign+Language+Interpretation+Technology&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMgoIBBAAGIAEGKIEMgoIBRAAGIAEGKIEMgoIBhAAGKIEGIkF0gEHNjI4ajBqMagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Assistive Listening Devices:**
-  - Hearing aids, cochlear implants, and FM systems to enhance sound for individuals with hearing loss.
+  - [Hearing aids, cochlear implants, and FM systems to enhance sound for individuals with hearing loss](https://www.google.com/search?q=Assistive+Listening+Devices&oq=Assistive+Listening+Devices&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBBzU2MWowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Video Relay Services (VRS):**
-  - Services that allow people with hearing impairments to communicate through video calls with an interpreter.
+  - [Services that allow people with hearing impairments to communicate through video calls with an interpreter](https://www.google.com/search?q=Video+relay+services&oq=Video+relay+services&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEIMjYzNmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 ## 3. Visual Impairment Aids
 Tools and devices to assist individuals with partial or complete vision loss.
 
 - **Screen Readers:**
-  - Software like JAWS, NVDA, or VoiceOver that reads aloud text displayed on a computer screen.
+  - [Software like JAWS, NVDA, or VoiceOver that reads aloud text displayed on a computer screen](https://www.google.com/search?q=Screen+readers&oq=Screen+readers&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDQ5NDlqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Braille Technology:**
   - Braille e-readers: Devices like the BrailleNote Touch or BrailleSense for reading digital content.
