@@ -81,81 +81,81 @@ Technologies to support individuals with learning disabilities, memory impairmen
 Technologies that support those with hearing loss.
 
 - **Hearing Aids:**
-  - Devices that amplify sound and improve hearing for individuals with hearing loss.
+  - [Devices that amplify sound and improve hearing for individuals with hearing loss](https://www.google.com/search?q=Hearing+aids&oq=Hearing+aids&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIKCAEQABiSAxiABDIKCAIQABiSAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDIyMjZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Cochlear Implants:**
-  - Implanted devices that provide a sense of sound to individuals with severe hearing loss or deafness.
+  - [Implanted devices that provide a sense of sound to individuals with severe hearing loss or deafness](https://www.google.com/search?q=Cochlear+Implants&oq=Cochlear+Implants&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBBzgzMWowajmoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Vibration Alert Systems:**
-  - Devices that convert sounds or alarms into vibrations (e.g., vibrating alarm clocks).
+  - [Devices that convert sounds or alarms into vibrations (e.g., vibrating alarm clocks)](https://www.google.com/search?q=vibration+alert+systems&oq=vibration+alert+systems&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMg0IBRAAGIYDGIAEGIoFMgoIBhAAGIAEGKIEMgoIBxAAGIAEGKIE0gEIMjc0MmowajGoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 - **Captioning Services & Devices:**
-  - Captioned telephones and apps that provide real-time captions for phone conversations (e.g., CapTel).
+  - [Captioned telephones and apps that provide real-time captions for phone conversations (e.g., CapTel)](https://www.google.com/search?q=captioning+services+and+devices&num=10&newwindow=1&sca_esv=44785faec4b38403&sxsrf=AHTn8zqUeMhFsuGdj9xjwHZHVSkAh2CVOQ%3A1746637625917&ei=OZMbaOXlN_KHwbkP3PPYGA&ved=0ahUKEwil5vmZ7JGNAxXyQzABHdw5FgMQ4dUDCBA&uact=5&oq=captioning+services+and+devices&gs_lp=Egxnd3Mtd2l6LXNlcnAiH2NhcHRpb25pbmcgc2VydmljZXMgYW5kIGRldmljZXMyBRAhGKABMgUQIRigATIFECEYoAEyBRAhGKABMgUQIRifBTIFECEYnwUyBRAhGJ8FSLYoUABYridwBHgBkAEAmAGPAaABoRqqAQUxOC4xN7gBA8gBAPgBAZgCJ6ACtRvCAgoQIxiABBgnGIoFwgIEECMYJ8ICDRAAGIAEGLEDGEMYigXCAhEQLhiABBixAxjRAxiDARjHAcICCxAAGIAEGLEDGIMBwgILEC4YgAQY0QMYxwHCAg4QLhiABBixAxjRAxjHAcICCxAuGIAEGLEDGIMBwgILEAAYgAQYkQIYigXCAgoQABiABBhDGIoFwgIOEC4YgAQYsQMYgwEYigXCAhYQLhiABBixAxjRAxhDGIMBGMcBGIoFwgIQEC4YgAQY0QMYQxjHARiKBcICCBAuGIAEGLEDwgIIEAAYgAQYsQPCAggQABiABBjJA8ICCxAAGIAEGJIDGIoFwgITEC4YgAQYsQMY0QMYgwEYxwEYCsICFBAuGIAEGMcBGJgFGJkFGJ4FGK8BwgIFEC4YgATCAgUQABiABMICDRAuGIAEGNEDGMcBGArCAgoQABiABBgUGIcCwgIHEAAYgAQYCsICBhAAGBYYHsICBxAAGIAEGA3CAgYQABgNGB7CAggQABgFGA0YHsICCBAAGIAEGKIEwgIFECEYqwKYAwCSBwUyMS4xOKAHvK0CsgcFMTcuMTi4B6cb&sclient=gws-wiz-serp).
 
 ## 6. Environmental Control Aids
 Technologies that help people with disabilities control their environment.
 
 - **Smart Home Devices:**
-  - Voice-activated assistants (Alexa, Google Home) to control lighting, temperature, and security devices.
-  - Smart locks, smart thermostats, and smart appliances with accessible controls.
+  - [Voice-activated assistants (Alexa, Google Home) to control lighting, temperature, and security devices](https://www.google.com/search?q=voice-activated+assistants&oq=voice-activated+assistants&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhge0gEINTI2NGowajmoAgCwAgA&sourceid=chrome&ie=UTF-8).
+  - [Smart locks, smart thermostats, and smart appliances with accessible controls](https://www.google.com/search?q=Smart+Home+Devices&oq=Smart+Home+Devices&gs_lcrp=EgRlZGdlKgYIABBFGDsyBggAEEUYOzIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDI1MjBqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Adaptive Switches:**
-  - Devices that allow users with limited mobility to control electronics, including computers, phones, and lights, via switches.
+  - [Devices that allow users with limited mobility to control electronics, including computers, phones, and lights, via switches](https://www.google.com/search?q=adaptive+switches+enabling+technology&oq=adaptive+switches+enabling+technology&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE2MzM0ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Automated Medication Reminders:**
-  - Devices that alert users when it’s time to take medications, such as the MedMinder pill dispenser.
+  - [Devices that alert users when it’s time to take medications, such as the MedMinder pill dispenser](https://www.google.com/search?q=automated+medication+reminders&oq=automated+medication+reminders&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMg0IBRAAGIYDGIAEGIoFMg0IBhAAGIYDGIAEGIoFMgoIBxAAGIAEGKIEMgoICBAAGKIEGIkF0gEIMzU3NmowajmoAgCwAgA&sourceid=chrome&ie=UTF-8).
 
 ## 7. Sensory Aids
 Devices that support individuals with sensory impairments (touch, smell, taste).
 
 - **Sensory Integration Technology:**
-  - Devices designed to help people with sensory processing disorders, like calming sound machines or vibrating seats.
+  - [Devices designed to help people with sensory processing disorders, like calming sound machines or vibrating seats]([https://www.google.com/search?q=Sensory+integration+technology&oq=Sensory+integration+technology&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTINCAEQABiGAxiABBiKBTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBTIKCAYQABiABBiiBDIKCAcQABiABBiiBDIKCAgQABiABBiiBNIBCDQ2MzRqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=assistive+technologies+for+sensory+processing+disorder&num=10&newwindow=1&sca_esv=44785faec4b38403&sxsrf=AHTn8zq5rXZcT_eVc7CTMAr0mVaQlPAjwg%3A1746640796493&ei=nJ8baKPsHaCGwbkPufC5gQg&ved=0ahUKEwijquaB-JGNAxUgQzABHTl4LoAQ4dUDCBA&uact=5&oq=assistive+technologies+for+sensory+processing+disorder&gs_lp=Egxnd3Mtd2l6LXNlcnAiNmFzc2lzdGl2ZSB0ZWNobm9sb2dpZXMgZm9yIHNlbnNvcnkgcHJvY2Vzc2luZyBkaXNvcmRlcjIIEAAYogQYiQUyBRAAGO8FMgUQABjvBTIIEAAYgAQYogQyBRAAGO8FSIQWUKgIWLYUcAF4AZABAJgBmQGgAcUIqgEDNi40uAEDyAEA-AEBmAIJoAKHB8ICChAAGLADGNYEGEfCAgcQIxiwAhgnmAMAiAYBkAYIkgcDNC41oAf2ObIHAzMuNbgHggc&sclient=gws-wiz-serp)).
   
 - **Wearable Alert Devices:**
-  - Smartwatches or wearable devices that provide alerts for individuals with visual or hearing impairments.
+  - [Smartwatches or wearable devices that provide alerts for individuals with visual or hearing impairments](https://www.google.com/search?q=wearable+alert+devices&oq=wearable+alert+devices&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyCggIEAAYgAQYogTSAQgzMzMwajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 ## 8. Prosthetics & Orthotics
 Technology designed to assist individuals who have lost limbs or experience mobility difficulties.
 
 - **Prosthetic Limbs:**
-  - Artificial limbs, including myoelectric prosthetics that use muscle signals to control movement.
+  - [Artificial limbs, including myoelectric prosthetics that use muscle signals to control movement](https://www.google.com/search?q=prosthetic+limbs&oq=prosthetic+limbs&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDM0ODZqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Smart Prosthetics:**
-  - Prosthetics equipped with sensors and microprocessors for more natural movement (e.g., bionic arms and legs).
+  - [Prosthetics equipped with sensors and microprocessors for more natural movement (e.g., bionic arms and legs)](https://www.google.com/search?q=smart+prosthetics&oq=smart+prosthetics&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjINCAgQABiGAxiABBiKBdIBBzk0NWowajmoAgCwAgE&sourceid=chrome&ie=UTF-8).
 
 - **Orthotic Devices:**
-  - Devices like braces, splints, and exoskeletons that support or stabilize joints and bones.
+  - [Devices like braces, splints, and exoskeletons that support or stabilize joints and bones](https://www.google.com/search?q=Orthotic+devices&oq=Orthotic+devices&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABNIBCDM1MDlqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 ## 9. Assistive Software and Applications
 General-purpose tools that can be customized for various disabilities.
 
 - **Customizable User Interfaces:**
-  - Software that alters the display of apps or websites to suit individual accessibility needs (e.g., screen contrast, font size).
+  - [Software that alters the display of apps or websites to suit individual accessibility needs (e.g., screen contrast, font size)](https://www.google.com/search?q=customizable+user+interfaces+for+people+with+disabilities&oq=customizable+user+interfaces+for+people+with+disabilities&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTEwNTUxajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Task Management & Organizational Apps:**
-  - Apps like Todoist or Trello that help individuals with cognitive disabilities plan and track tasks.
+  - [Apps like Todoist or Trello that help individuals with cognitive disabilities plan and track tasks](https://www.google.com/search?q=task+management+and+organizational+apps+for+people+with+disabilities&num=10&newwindow=1&sca_esv=44785faec4b38403&sxsrf=AHTn8zpXx_SLBYn23UawD-uKsKz4-FYQ8A%3A1746640944966&ei=MKAbaPjjOuWrwbkPtK7OqAo&ved=0ahUKEwj4u8zI-JGNAxXlVTABHTSXE6UQ4dUDCBA&uact=5&oq=task+management+and+organizational+apps+for+people+with+disabilities&gs_lp=Egxnd3Mtd2l6LXNlcnAiRHRhc2sgbWFuYWdlbWVudCBhbmQgb3JnYW5pemF0aW9uYWwgYXBwcyBmb3IgcGVvcGxlIHdpdGggZGlzYWJpbGl0aWVzSLVVUABYmVFwAHgBkAEAmAFyoAGbF6oBBDM0LjW4AQPIAQD4AQGYAgKgAroBwgIGEAAYBxgemAMAkgcDMS4xoAekNbIHAzEuMbgHugE&sclient=gws-wiz-serp).
 
 - **Speech-to-Text and Text-to-Speech Tools:**
-  - Software that aids individuals in composing written material or reading aloud text.
+  - [Software that aids individuals in composing written material or reading aloud text](https://www.google.com/search?q=speech-to-text+and+text-to-speech+tools+and+software+for+people+with+disabilities&oq=speech-to-text+and+text-to-speech+tools+and+software+for+people+with+disabilities&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE0Mzk5ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Accessibility Features Built into Operating Systems:**
-  - Built-in accessibility tools such as magnification, screen readers, or voice control (available in iOS, Android, Windows, and macOS).
+  - [Built-in accessibility tools such as magnification, screen readers, or voice control (available in iOS, Android, Windows, and macOS)](https://www.google.com/search?q=built-in+accessibility+tools+in+operating+systems+for+people+with+disabilities&oq=built-in+accessibility+tools+in+operating+systems+for+people+with+disabilities&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE5MDk3ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 ## 10. Other Relevant Technologies
 These can include anything else not covered above, but still important in enabling independent living.
 
 - **Personal Emergency Response Systems (PERS):**
-  - Wearable devices (e.g., Life Alert) that notify emergency services if a user falls or is in danger.
+  - [Wearable devices (e.g., Life Alert) that notify emergency services if a user falls or is in danger](https://www.google.com/search?q=PERS+devices&oq=PERS+devices&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyCggDEAAYogQYiQUyCggEEAAYgAQYogTSAQgyMTM2ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Social & Emotional Support Apps:**
-  - Apps that help individuals with mental health issues or autism spectrum disorders connect socially and manage emotions (e.g., Talkspace, MindMate).
+  - [Apps that help individuals with mental health issues or autism spectrum disorders connect socially and manage emotions (e.g., Talkspace, MindMate)](https://www.google.com/search?q=social+and+emotional+support+apps+for+people+with+disabilities&oq=social+and+emotional+support+apps+for+people+with+disabilities&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDY2ODFqMGo5qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 ## Resources for Accessing These Technologies
 - **Non-Profit Organizations & Foundations:**
-  - The National Federation of the Blind, The American Speech-Language-Hearing Association, and other groups that help connect people with relevant tech.
+  - [The National Federation of the Blind](https://nfb.org/), [The American Speech-Language-Hearing Association](https://www.asha.org/), and [other groups that help connect people with relevant tech](https://www.google.com/search?q=groups+that+help+people+with+disabilities+connect+with+technologies&oq=groups+that+help+people+with+disabilities+connect+with+technologies&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDc1MTNqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8).
 
 - **Assistive Tech Centers:**
-  - Many areas have regional centers or online resources offering advice, training, and equipment for people with disabilities.
+  - [Many areas have regional centers or online resources offering advice, training, and equipment for people with disabilities](https://www.google.com/search?q=Assistive+Tech+Centers+near+me&oq=Assistive+Tech+Centers+near+me&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQABgWGB4yDQgCEAAYhgMYgAQYigUyDQgDEAAYhgMYgAQYigUyDQgEEAAYhgMYgAQYigUyDQgFEAAYhgMYgAQYigUyCggGEAAYgAQYogQyBwgHEAAY7wXSAQg2MjU0ajBqOagCALACAA&sourceid=chrome&ie=UTF-8).
 
 - **Government Programs:**
-  - In some regions, governments provide financial assistance or access to technologies through programs such as the Assistive Technology Act in the U.S.
+  - [In some regions, governments provide financial assistance or access to technologies through programs such as the Assistive Technology Act in the U.S](https://www.tn.gov/disability-and-aging.html).
